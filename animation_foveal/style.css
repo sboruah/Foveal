@@ -1,0 +1,146 @@
+
+/*path {
+  fill: none;
+  stroke: #000;
+  stroke-width: 0px;
+}*/
+/*
+circle {
+  fill: transparent;
+  stroke: none;
+  stroke-width: 0.5px;
+}*/
+.foveal-content{
+	position:absolute;
+}
+#theabstract{
+	left:434px;
+	top:222px;
+}
+#thereflection{
+	left:634px;
+	top:222px;
+}
+#thefli{
+	left:340px;
+	top:320px;
+}
+#theobserver{
+	left:260px;
+	top:222px;	
+}
+#themeaning{
+	left:450px;
+	top:100px;
+}
+.foveal {
+	background-color: #5d5d5d;
+	width: 100%;
+}
+.try{
+	width:100px;
+	height:100px;
+	border: 2px solid white;
+	border-radius: 50px;
+	position:relative;
+}
+#canvas_container {
+	margin: 0 auto;
+	max-width: 1024px;
+	width: 1024px;
+	position: relative;
+}
+#lefteye {
+	position: absolute;
+	top: 282px;
+	left: 285px;
+}
+#blacklefteye {
+	position: absolute;
+	top: 282px;
+	left: 285px;
+}
+#sun{
+	position: absolute;
+	z-index: 1;
+	top: 282px;
+	left: 452px;
+}
+#test{
+	position:absolute;
+	top:284px;
+	left:520px;
+}
+#dottedpath {
+	position: absolute;
+	top: 274px;
+	left: 324px;
+	opacity: 0.8;
+}
+#leftbar {
+	left: 285px;
+	top: 282px;
+	bottom: 0px;
+}
+#righteye {
+	position: absolute;
+	top: 282px;
+	left: 621px;
+}
+
+/*.mainbody {
+ background-color: black;
+ }
+ .container {
+ background-color: #D3D3D3;
+ }
+ p {
+ color: red;
+ }*/
+/*p{
+ top:-10px;
+ }
+ .click1{
+ position: absolute;
+ margin-top:-325px;
+ margin-left:368px
+ }
+ .click2{
+ position: absolute;
+ margin-top:-325px;
+ margin-left:460px
+ }
+
+ div#animated {
+ margin: auto;
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ width: 300px;
+ height: 100px;
+ font-size: 20px;
+ color: white;
+ background-color: red;
+ border-radius: 5px;
+ transition: width 2s;
+ -webkit-transition: width 2s;
+ transition: 2s ease-in-out;
+ }
+ /*p {
+ padding: 35px;
+ text-align: center;
+ font-weight: bold;
+ }*/
+/*div#animated:hover {
+ width: 600px;
+ /*height: 400px;*/
+/*background-color: blue;
+ border-radius: 50%;
+ transition: 2s
+ }*/
+
+/*button:hover{
+ box-shadow: 10px 10px 5px #888888;
+ }*/

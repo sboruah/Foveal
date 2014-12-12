@@ -1,0 +1,24 @@
+.instaenroll {
+	background-color: #fff;
+	width: 100%;
+}
+#canvas_container {
+	margin: 0 auto;
+	max-width: 1024px;
+	width: 1024px;
+	position: relative;
+}
+#logo1 {
+	position: absolute;
+	top: 100px;
+	left: 285px;
+	width: 400px;
+	opacity: 0.5;
+}
+#logo2 {
+	position: absolute;
+	top: 330px;
+	left: 290px;
+	width: 400px;
+	opacity: 0.5;
+}
